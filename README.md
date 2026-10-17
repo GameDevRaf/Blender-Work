@@ -12,7 +12,7 @@ A collection of my Blender projects and tutorial studies from **2019-2021**, spa
 
 [![A city skyline reflected in water beneath a blue and pink evening sky.](docs/showcase/skyline.jpg)](Blender%20Projects/With%20Renders/2021/Wedding%20Card/Renders/Render%209.png)
 
-*Wedding Card, 2021 - a waterfront skyline and its reflections. Select any showcase image to view the original render.*
+*Wedding Card, 2021 - a waterfront skyline and its reflections of the Chicago skyline. Select any showcase image to view the original render.*
 
 ## Selected renders
 
@@ -88,7 +88,7 @@ The original folder names and year-based organization are preserved.
 | [Tutorials with renders](Blender%20Tutorials/With%20Renders%20%28Completed%20Tutorials%29/) | Donut and coffee studies, a low-poly well, a sword, a black hole, stylized grass, and a plane crash island. |
 | [Tutorials without renders](Blender%20Tutorials/Without%20Renders%20%28Uncompleted%20Tutorials%29/) | Work in progress, including a chair study, a sea shack, and early Blender exercises. |
 
-**Archive note:** The historical folder labels describe how the files were stored. Having renders does not always mean a tutorial was finished: the donut folder, for example, is explicitly marked uncompleted.
+**Archive note:** The historical folder labels describe how the files were stored.
 
 ## Open the files
 
