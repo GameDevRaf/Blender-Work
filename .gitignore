@@ -1,0 +1,31 @@
+# Blender autosaves and recoverable backups
+*.blend[0-9]*
+*.blend@
+*.blend~
+*.autosave
+quit.blend
+
+# Generated simulation and map caches
+blendcache_*/
+*.bphys
+Cache/
+
+# Duplicate backup folders (originals remain on disk)
+Render Backup/
+**/Blender Files/Backup/
+
+# Operating system and editor metadata
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+__MACOSX/
+.vscode/
+.idea/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
